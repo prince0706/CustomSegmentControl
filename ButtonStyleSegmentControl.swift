@@ -3,7 +3,7 @@
 //  KnowledgeAndExperience
 //
 //  Created by Prince on 31/07/18.
-//  Copyright © 2018 Mydesq. All rights reserved.
+//  Copyright © 2018 Prince. All rights reserved.
 //
 
 import Foundation
