@@ -1,6 +1,6 @@
 //
 //  ButtonStyleSegmentControl.swift
-//  KnowledgeAndExperience
+//  ButtonStyleSegmentControl
 //
 //  Created by Prince on 31/07/18.
 //  Copyright © 2018 Prince. All rights reserved.
